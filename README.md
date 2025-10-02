@@ -27,7 +27,7 @@ El sistema almacena información en la carpeta `data/`:
 - `patients.csv` → Pacientes registrados  
 - `appointments.csv` → Citas creadas  
 
-Ejemplo de datos ficticios:
+Ejemplo de datos:
 
 ```csv
 # doctors.csv
